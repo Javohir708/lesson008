@@ -1,0 +1,42 @@
+body {
+    background-color: #F2F3F7;
+}
+.card {
+    width: 550px;
+    height: 618px;
+    background-color: red;
+    margin: 200px auto;
+    border-radius: 50px;
+    padding: 10px;
+    background-color: #FFFFFF;
+    /* top: 50%;
+    left: 50%;
+    transform: translate(-50% -50%); */
+}
+.card__image {
+    width: 490px;
+    height: 320px;
+    margin-top: 28px;
+    margin-left: 30px;
+    border-radius: 40px;
+}
+.card__name {
+    text-indent: 1em;
+    color: #292963;
+    font-size: 38px;
+}
+.card__data {
+    text-indent: 2em;
+}
+.card__about {
+    padding-left: 30px;
+    font-size: 20px;
+    color: #BCBBC5;
+}
+.card__fullblog {
+    display: inline;
+    padding-left: 30px;
+    color: #272552;
+    font-size: 24px;
+    margin-bottom: 20px;
+}
